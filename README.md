@@ -17,5 +17,6 @@
 - URL para clone: http://www.facebook.com
 
 ### Resutados
+![Captura de tela 2025-01-26 202810](https://github.com/user-attachments/assets/5e1c4e8f-0b20-4b51-a985-03e381bc6f9f)
 
-![Alt text](./passwd.png "Optional title")
+
